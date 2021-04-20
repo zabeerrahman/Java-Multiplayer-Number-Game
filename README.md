@@ -8,7 +8,7 @@ Displays some average lifetime statistics of each player who plays after each ro
 ![](images/1player.png)
 
 ## MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS
-    (i.e. replace "/Users/zabeerrahman/Desktop/MULTIPLAYER/TotalRoundCount.txt" on line 117 with your working directory, with constant file extension)
+    (i.e. replace "/Users/zabeerrahman/Desktop/MULTIPLAYER/TotalRoundCount.txt" on line 117 with your working directory, with constant file extension. REpeat with all path objects)
     
 __Multiplayer__ Folder Includes:
   * TotalRoundCount.txt
@@ -25,5 +25,5 @@ __Multiplayer__ Folder Includes:
         * Too low guesss rate *(%)*
         * Average difficulty *(mean range between bounds)*
         * 1st place win count
-        * LAst place count
+        * Last place count
 
