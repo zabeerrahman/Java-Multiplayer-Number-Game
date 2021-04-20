@@ -1,5 +1,5 @@
 # Java-Multiplayer-Number-Game
-A game which asks how many users, generates a random number for each user, and asks users to enter a range (lower bound/upperbound) for difficulty, then guess their integer round by round until everyone correctly guesses their number.<br/>
+A game which asks how many users, asks users to enter a range (lower bound/upperbound) for difficulty, generates a random number for each user, then makes users guess their integer round by round until everyone correctly guesses their number.<br/>
 The game then creates a log in a folder on desktop (location can be customized) of each round ever played.<br/>
 Creates a scoreboard for players.<br/>
 Creates a round summary displaying wrong tries and wrong try count.<br/>
