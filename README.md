@@ -17,13 +17,13 @@ __Multiplayer__ Folder Includes:
         A *sample* round log (must be opened manually to read) which displays many details of the round:
         insert image here
   * SCORECARDS Folder:
-        * zab.txt
-            A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console.
-            __Desired Statistics__
-                * Win rate *(%)*
-                * Too high guess rate *(%)*
-                * Too low guesss rate *(%)*
-                * Average difficulty *(mean range between bounds)*
-                * 1st place win count
-                * LAst place count
+    * zab.txt
+    A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console.
+      __Desired Statistics__
+        * Win rate *(%)*
+        * Too high guess rate *(%)*
+        * Too low guesss rate *(%)*
+        * Average difficulty *(mean range between bounds)*
+        * 1st place win count
+        * LAst place count
 
