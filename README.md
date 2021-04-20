@@ -9,7 +9,7 @@ Asks users to play again.<br/>
 ![](images/player.png)
 
 ## SET UP:<br/>
-### MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS
+### MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS. MUST ALSO DOWNLOAD SUPPLEMETARY FILES (MULTIPLAYER FOLDER)
     (i.e. replace "/Users/zabeerrahman/Desktop/MULTIPLAYER/TotalRoundCount.txt" on line 117 with your working directory, with constant file extension. REpeat with all path objects)
     
 #### Multiplayer:
@@ -30,6 +30,6 @@ Asks users to play again.<br/>
         * Last place count
         
 <br/><br/><br/>
-Also including a preliminary version of game without logging and without file i/o. Everything would be displayed in console:<br/>
+Also including a preliminary version of game without logging and without file i/o. Can be run entirely in compiler without any set up and/or additional supplementary files. Everything would be displayed in console:<br/>
 ![](images/prelim.png)
 
