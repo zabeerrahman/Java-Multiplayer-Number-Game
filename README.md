@@ -31,5 +31,5 @@ Asks users to play again.<br/>
         
 <br/><br/><br/>
 Also including a preliminary version of game without logging and without file i/o. Everything would be displayed in console:
-![](images/preliminary.png)
+![](images/prelim.png)
 
