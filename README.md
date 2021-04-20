@@ -18,7 +18,7 @@ __Multiplayer__ Folder Includes:
         insert image here
   * SCORECARDS Folder:
     * zab.txt
-    A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console.
+    A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console.<br/>
       __Desired Statistics__
         * Win rate *(%)*
         * Too high guess rate *(%)*
