@@ -30,6 +30,6 @@ Asks users to play again.<br/>
         * Last place count
         
 <br/><br/><br/>
-Also including a preliminary version of game without logging and without file i/o. Everything would be displayed in console:
+Also including a preliminary version of game without logging and without file i/o. Everything would be displayed in console:<br/>
 ![](images/prelim.png)
 
