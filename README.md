@@ -5,7 +5,7 @@ Creates a scoreboard for players.
 Creates a round summary displaying wrong tries and wrong try count.
 Displays some average lifetime statistics of each player who plays after each round.
 
-images/1player.png
+![](images/1player.png)
 
 ** MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS**
     (i.e. replace "/Users/zabeerrahman/Desktop/MULTIPLAYER/TotalRoundCount.txt" on line 117 with your working directory, with constant file extension)
