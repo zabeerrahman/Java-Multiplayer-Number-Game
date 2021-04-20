@@ -5,7 +5,7 @@ Creates a scoreboard for players.
 Creates a round summary displaying wrong tries and wrong try count.
 Displays some average lifetime statistics of each player who plays after each round.
 
-![](images/1player.png) 
+![](images/player.png)
 
 ## MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS
     (i.e. replace "/Users/zabeerrahman/Desktop/MULTIPLAYER/TotalRoundCount.txt" on line 117 with your working directory, with constant file extension. REpeat with all path objects)
@@ -15,7 +15,7 @@ __Multiplayer__ Folder Includes:
         A log which keeps track of total lifetime rounds played so game can display the count in console.
   * Round11.txt
         A *sample* round log (must be opened manually to read) which displays many details of the round:
-        insert image here
+        ![](images/Round11.png)
   * SCORECARDS Folder:
     * zab.txt
     A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console.<br/><br/>
