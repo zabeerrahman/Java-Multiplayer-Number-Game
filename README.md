@@ -28,4 +28,7 @@ Asks users to play again.<br/>
         * Average difficulty *(mean range between bounds)*
         * 1st place win count
         * Last place count
+        
+<br/><br/><br/>
+Also including a preliminary version of game without logging and without file i/o. Everything would be displayed in console.
 
