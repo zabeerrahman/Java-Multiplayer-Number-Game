@@ -8,7 +8,7 @@ Asks users to play again.<br/>
 
 ![](images/player.png)
 
-## MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS
+## SET UP:<br/> MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS
     (i.e. replace "/Users/zabeerrahman/Desktop/MULTIPLAYER/TotalRoundCount.txt" on line 117 with your working directory, with constant file extension. REpeat with all path objects)
     
 ### Multiplayer:
