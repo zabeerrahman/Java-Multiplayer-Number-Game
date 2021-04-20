@@ -8,10 +8,11 @@ Asks users to play again.<br/>
 
 ![](images/player.png)
 
-## SET UP:<br/> MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS
+## SET UP:<br/>
+### MUST CREATE NEW DIRECTORY (preferably on desktop) FOR GAME AND REPLACE PATH OBJECTS WITH CUSTOM PATH OBJECTS FOR YOUR OWN DESKTOP AND USERS
     (i.e. replace "/Users/zabeerrahman/Desktop/MULTIPLAYER/TotalRoundCount.txt" on line 117 with your working directory, with constant file extension. REpeat with all path objects)
     
-### Multiplayer:
+#### Multiplayer:
   * TotalRoundCount.txt<br/>
         A log which keeps track of total lifetime rounds played so game can display the count in console.
   * Round11.txt<br/>
