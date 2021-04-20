@@ -1,0 +1,5 @@
+This is the LOG File for Round #11
+zab came in place 1
+zab made the guess: 1
+narm came in place 2
+narm made the guesses: 1, 2, 3, 4, 5, 6, 7
