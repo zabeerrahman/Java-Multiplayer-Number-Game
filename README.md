@@ -16,7 +16,7 @@ Asks users to play again.<br/>
   * TotalRoundCount.txt<br/>
         A log which keeps track of total lifetime rounds played so game can display the count in console.
   * Round11.txt<br/>
-        A *sample* round log (must be opened manually to read) which displays many details of the round:
+        A *sample* round log (must be opened manually to read) which displays many details of the round:<br/>
         ![](images/Round11.png)
   * SCORECARDS Folder:
     * zab.txt<br/>
