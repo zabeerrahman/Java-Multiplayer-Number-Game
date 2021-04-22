@@ -20,7 +20,7 @@ Asks users to play again.<br/>
         ![](images/Round11.png)
   * SCORECARDS Folder:
     * zab.txt<br/>
-    A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console.<br/><br/>
+    A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console.*No lifetime statistics included here*<br/><br/>
  __Desired Statistics__
         * Win rate *(%)*
         * Too high guess rate *(%)*
@@ -30,6 +30,6 @@ Asks users to play again.<br/>
         * Last place loss count
         
 <br/><br/><br/>
-Also including a preliminary version of game without logging and without file i/o. Can be run entirely in compiler without any set up and/or additional supplementary files. Everything would be displayed in console:<br/>
+Also included is a preliminary version of game without logging and without file i/o. Can be run entirely in compiler without any set up and/or additional supplementary files. Everything would be displayed in console:<br/>
 ![](images/prelim.png)
 
