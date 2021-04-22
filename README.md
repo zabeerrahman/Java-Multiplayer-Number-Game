@@ -27,7 +27,7 @@ Asks users to play again.<br/>
         * Too low guesss rate *(%)*
         * Average difficulty *(mean range between bounds)*
         * 1st place win count
-        * Last place count
+        * Last place loss count
         
 <br/><br/><br/>
 Also including a preliminary version of game without logging and without file i/o. Can be run entirely in compiler without any set up and/or additional supplementary files. Everything would be displayed in console:<br/>
