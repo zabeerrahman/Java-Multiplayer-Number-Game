@@ -20,7 +20,7 @@ Asks users to play again.<br/>
         ![](images/Round11.png)
   * SCORECARDS Folder:
     * zab.txt<br/>
-    A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console.*No lifetime statistics included here*<br/><br/>
+    A *sample* log which keeps track of numerous lifetime statistics of each user so game can calculate desired statistics and display in console. *No lifetime statistics included here* <br/><br/>
  __Desired Statistics__
         * Win rate *(%)*
         * Too high guess rate *(%)*
